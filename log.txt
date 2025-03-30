@@ -1,0 +1,13 @@
+Sun Mar 30 21:08:37 2025
+name: NVIDIA GeForce RTX 3060
+l2CacheSize: 2359296
+maxGridSize: 2147483647 65535 65535
+maxThreadsDim: 1024 1024 64
+maxThreadsPerBlock: 1024
+maxThreadsPerMultiProcessor: 1536
+multiProcessorCount: 28
+sharedMemPerBlock: 49152
+sharedMemPerMultiprocessor: 102400
+totalConstMem: 65536
+totalGlobalMem: 12884377600
+warpSize: 32
